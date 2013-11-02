@@ -1,4 +1,4 @@
-firefoxos
+Firefox OS
 =========
 
-Taller Firefox OS App
+Taller Firefox OS App - 2/11/13
